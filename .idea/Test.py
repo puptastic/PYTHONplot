@@ -9,7 +9,7 @@ plt.plot(t, v)
 
 plt.xlabel('time (s)')
 plt.ylabel('voltage (mV)')
-plt.title('As simple as it gets, folks')
+plt.title('Boring graph... but an example of plotting and numpy in Python.')
 plt.grid(True)
 # plt.savefig("test.png") # Just saving the figure as a picture in the same directory
 plt.show()
